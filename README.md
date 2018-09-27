@@ -1,12 +1,12 @@
 #  Windows
-## Software cmake_minimum_required
--------------------------------
+### Software cmake_minimum_required
+
 - CMAKE gui (https://cmake.org/download/)
 - Visual Studio 2017 (community version, free)
 - (suggested) atom for ediing source code
 
-## To compile
-------------------------------
+### To compile
+
 - download zip file of project and extract
 - use cmake gui
   - point cmake to source code and also specify the build to
@@ -14,9 +14,9 @@
   - once configured once specify "Debug" for the CMAKE_CONFIGUATION_TYPES
   - configure and generate makefile and select open project
 
-
-## Linux
-## To compile
+------------------------------
+# Linux
+### To compile
 =====================
 - cd cross-compiling-test
 - mkdir build
