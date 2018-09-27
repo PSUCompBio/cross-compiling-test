@@ -19,23 +19,23 @@ be able to be compiled on Windows, Mac and Linux with little or no modification.
 ## Linux
 #### To compile
 - open terminal (navigate to desired directory)
-'''
+```
 git clone https://github.com/PSUCompBio/cross-compiling-test
 cd cross-compiling-test
 mkdir build
 cd bulid
 ccmake ..
 make -j8
-'''
+```
 
 ## Mac OS
 #### To compile
 - open terminal (navigate to desired directory)
-'''
+```
 git clone https://github.com/PSUCompBio/cross-compiling-test
 cd cross-compiling-test
 mkdir build
 cd bulid
 ccmake ..
 make -j8
-'''
+```
