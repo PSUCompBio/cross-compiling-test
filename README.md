@@ -2,7 +2,7 @@
 This is a minimal example of using CMake and C programming that should
 be able to be compiled on Windows, Mac and Linux with little or no modification.
 ##  Windows
-#### Software cmake_minimum_required
+#### Software required
 - CMAKE gui (https://cmake.org/download/)
 - Visual Studio 2017 (community version, free)
 - (suggested) atom for ediing source code
